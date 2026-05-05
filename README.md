@@ -1,7 +1,7 @@
 # Cybersecurity-Journey
 This repository is a documentation of my Cybersecurity Journey.
 DAY ONE OF DAY ONE OF MY CYBER SECURITY DOCUMENT
-THINGS I LEARNT
+THINGS I LEARNT INCLUDE THE DEFINITION OF CYBER SECURITY, CYBERSECURITY JOBS, CIA TRIAD, NIST CYBERSECURITY FRAMEWORK AND OTHER THINGS
 CYBERSECURITY: Cybersecurity is the practice of protecting computer system, networks, devices and date from unauthorized access, theft, digital attacks and damages.
 
 CYBERSECURITY JOB:
@@ -19,4 +19,42 @@ Security Engineers: They build and secures systems, set up firewalls, IDs and se
 Firewall: is a security tool that is used to monitor both incoming and outgoing traffic.
 IDs: Intrusion detection system. it is a system set up that detects suspicious traffic and alert the system or analyst.
 
-Red Teamer: They simulate real-world attacks to identify vulnerabilities and exploit them, helping organisations understand how attackers think and improve their security.
+CIA TRIAD
+It is a conceptual framework that ensures systems protect data, maintain its accuracy, and make it availablewhen needed.
+
+C stands for Confidentiality – it means only authorised people have access to data (encryption is used here to control access). Encryption is converting plain text into cipher text, simply turning something readable into unreadable. A common example is how passwords are protected.
+
+I stands for Integrity – it means making sure data is not tampered with (hashing). Hashing is converting an input like text or images into a fixed-length string. It is used to check integrity, meaning to confirm that data has not been altered.
+
+A stands for Availability – it means ensuring that systems and data are accessible and working when needed.
+
+Digital signature can also be used. A digital signature is a combination of encryption and hashing  it is an encrypted hash used to verify authenticity and integrity. It is an encryted hash.
+
+Other I LEARNT
+DOS (Denial of Service):An attack where a system is flooded with traffic to make it unavailable to users.
+
+DDoS (Distributed Denial of Service): When a hacker uses multiple systems (not just one) to send massive traffic to a target system and shut it down. These systems are usually controlled as a network.
+
+Difference between Bot and Botnet
+
+Bot: A compromised device (computer, phone, etc.) that a hacker controls remotely.
+Botnet: A group of many infected devices (bots) controlled together to carry out attacks like DDoS.
+
+
+
+NIST CYBERSECURITY FRAMEWORK (NIST- NATIONAL INSTITUTE OF STANDARD TECHNOLOGY)
+Is a US standard guide that protects organisations from cybersecurity risks. Their 5 core fuctions are:
+1. Identify: know your assest, simply means know what you have.
+2. Protect: safeguard what you have (Firewall).
+3. Detect: Spot when something is wrong or off (SIEM, IDS).
+4. Respond: contain the damage (incident response, patching).
+5. Recover: get back to normal (backups, lesson learned).
+SIEM: security information and event management: it is used to monitor events e.g cctv
+IDS: intrusion detection system
+Patching: When a security vulnerability is discovered, a fix (called a patch) is released and applied to a system to close that vulnerability and prevent attackers from exploiting it.
+
+QUESTIONS THE TUTOR ASKED US AFTER THE CLASS
+Difference between bot and botnet
+Difference between DOS and DDOS.
+
+AND THAT IS THE END OF DAY ONE........ THANK YOU
