@@ -1,0 +1,45 @@
+DAY 2
+RISK MANAGEMENT AND TYPES
+Meaning:
+Risk is:
+Probability for loss, damage or harm that occurs when a threat exploits a vulnerability, resulting in a negative impact to an organization or an individual.
+Risk is a probability of something bad happening.
+The Basic Formula of Risk
+Risk = Threat × Vulnerability × Impact
+Sometimes expressed as;
+Risk = likelihood × impact
+Without one of these parameters there is no risk.
+Components of Risk
+Threats:
+What could cause harm; hackers, malware and insiders.
+Vulnerabilities:
+Weak points, outdated software and weak passwords.
+Impact:
+Consequences; financial loss, downtime, legal issues.
+Likelihood:
+The probability that something bad will actually happen.
+RISK MANAGEMENT
+“Is a systematic process of identifying, analyzing and evaluating risks to determine their severity and priority.”
+Identifying what you need to protect
+Discover
+Find
+Understand
+RISK MANAGEMENT STRATEGIES
+Avoidance: don’t take a risk at all
+Mitigation: Reduce a risk
+Transfer: insurance/outsourcing
+Acceptance: Live with it if low impact
+THREAT INTELLIGENCE
+Information that helps predict, prevent and respond to cyber attacks.
+Why it matters:
+Stay ahead of attackers.
+TYPES
+Strategic TI
+Tactical
+Operational
+Strategic TI
+Strategic Threat Intelligence uses mapping in order to deal with the big picture and long-term view (something that has been happening for long).
+Audience:
+Executives, decision-makers.
+Example:
+Rise of ransomware in healthcare — ransomware presents an attack that passes word all your files and you have to pay attackers to get access.
