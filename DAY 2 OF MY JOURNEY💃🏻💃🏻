@@ -1,45 +1,88 @@
 DAY 2
-RISK MANAGEMENT AND TYPES
-Meaning:
-Risk is:
-Probability for loss, damage or harm that occurs when a threat exploits a vulnerability, resulting in a negative impact to an organization or an individual.
+On Day 2, i learnt about Risk , The basic formula of Risk , Key components of risk, Risk Management Definition and Strategies, Threat intelligence and types, SOurces of threat intelligenve and we finally went into KALI.
+
+RISK MANAGEMENT AND THREAT MANAGEMENT
+
+INTRODUCTION TO RISK
+Risk is the potential for loss, damage or harm will occur when a threat exploits a vulnerability, resulting in a negative impact to an organization or an individual.
 Risk is a probability of something bad happening.
+
 The Basic Formula of Risk
 Risk = Threat × Vulnerability × Impact
 Sometimes expressed as;
 Risk = likelihood × impact
 Without one of these parameters there is no risk.
-Components of Risk
-Threats:
-What could cause harm; hackers, malware and insiders.
-Vulnerabilities:
-Weak points, outdated software and weak passwords.
-Impact:
-Consequences; financial loss, downtime, legal issues.
-Likelihood:
-The probability that something bad will actually happen.
+
+COMPONENT OF RISK ARE:
+Threats: What could cause harm which are hackers, malware and insiders.
+Vulnerabilities: Weak points, outdated software and weak passwords.
+Impact: Consequences such as financial loss, downtime, legal issues.
+Likelihood: The probability that something bad will actually happen.
+
 RISK MANAGEMENT
-“Is a systematic process of identifying, analyzing and evaluating risks to determine their severity and priority.”
+Is the systematic process of identifying, analyzing and evaluating risks to determine their severity and priority.
 Identifying what you need to protect
 Discover
 Find
 Understand
+
 RISK MANAGEMENT STRATEGIES
-Avoidance: don’t take a risk at all
-Mitigation: Reduce a risk
-Transfer: insurance/outsourcing
+Avoidance: don’t take the risk at all
+Mitigation: Reduce the risk
+Transfer: insurance, outsourcing
 Acceptance: Live with it if low impact
+
+
 THREAT INTELLIGENCE
 Information that helps predict, prevent and respond to cyber attacks.
-Why it matters:
-Stay ahead of attackers.
+Why it matters is that it helps us stay ahead of attackers.
+
 TYPES
+Strategic TI, Tactical, Operational
+
 Strategic TI
-Tactical
-Operational
-Strategic TI
-Strategic Threat Intelligence uses mapping in order to deal with the big picture and long-term view (something that has been happening for long).
-Audience:
-Executives, decision-makers.
-Example:
-Rise of ransomware in healthcare — ransomware presents an attack that passes word all your files and you have to pay attackers to get access.
+Strategic Threat Intelligence: (the tutor used the kidnapping in Okene road as example).
+Big picture and long-term view (something that has been happening for long).
+Audience: Executives, decision-makers.
+Example: Rise of ransomware in healthcare, ransomware presents an attack that passes word all your files and you have to pay attackers to get access.
+
+TACTICAL TI
+specific attacker techniques, tactics and procedures (TTPs)
+tells you specific information about the attackers, how they will operate and the procedures, gives you more information about all attackers than strategic TI.
+Audience: SOC analysts, defenders.
+
+OPERATIONAL TI
+details on campaigns, malware or groups in real time.
+e.g using okene road it gives you a real time of how those kidnappers are aggressive eg during festive period.
+virustotal.com — use to verify a link if it is legit or scam.
+
+SOURCES OF THREAT INTELLIGENCE
+Open source intelligence (OSINT): using google to check links
+Threat feeds (commercial or free): like facebook feeds
+Dark web monitoring
+Sharing communities
+
+WHY WE USE THREAT INTELLIGENCE
+Helps in proactive defense
+Helps to respond to incident faster (incident response, faster detection & recovery)
+Improving risk management
+
+FINALLY WE ENTERED KALI LINUX
+LINUX
+Is an operating system that helps you take control of everything. Linux is used in cybersecurity to take control of our task.
+KALI LiNUX is a special operating system used for cybersecurity and ethical hacking. It comes with a lot of built in tools that proffessionas use to test systems ans find security weaknesses.
+
+Difference between Windows and Linux is that Linus uses command while windows uses mouses/control.
+
+POPULAR TOOLS INSIDE KALI LINUX ARE:
+Nmap
+Wireshark
+Metasplout
+Aircrack
+
+BASIC COMMANND IN LINUX INCLUDE
+pwd: present workinf directory
+ls: list all
+cd: change directory
+cd ..:  it takes you one step back
+clear: it claers everything on your work sheet
