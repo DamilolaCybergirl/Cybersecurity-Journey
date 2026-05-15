@@ -1,0 +1,16 @@
+Day 3 began with us learning other Kali Linus commands
+  1. cd - it is used to move from one folder to another
+  clear - it is used to clear everything on the terminal
+  touch - it is used to create an empty file
+  echo - it is used to write tedxt line into a file directly from the terminal
+  cat -  it is used to read or display the content of a file
+  nano - it is used to create file, add a text into it. you use control o or control s to save after typing and control x to exist.
+  mkdir - it is used to create a new folder
+  cp: means copy, it is used to copy files from one location to another
+  mv - means move. it is used to move or rename files
+  rm - it is used to remove or delete files
+
+
+    i learnt that before creating more directory inside the main folder, you have to use cd to change directory to where you want to work on first.
+    i also learnt about / called the root directory and absolute directory, will give more notes on this later.
+    i also learnt that both nano and cd can be used to open a file.
